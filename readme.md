@@ -1,4 +1,4 @@
-This is a list of lessons learned from lived experience. It [began as an email](https://mailchi.mp/09872b3d2a05/57) in 2020, and is now here for posterity and futher development.
+This is a list of lessons learned from lived experience. It [began as an email](https://mailchi.mp/09872b3d2a05/57) in 2020, and is now here for posterity and further development.
 
 1.  People giving you free advice are _talking to themselves_, not you.
 2.  Be a good owner to your pet: understand their dietary requirements in neurotic detail.
